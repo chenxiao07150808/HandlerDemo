@@ -16,8 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".Main2Activity" />
-        <activity android:name=".MyHandler" />
-        <activity android:name=".Main3Activity"></activity>
+        <activity android:name=".MyHandlerActivity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".PostDemo"></activity>
     </application>
 
 </manifest>
