@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HandlerDemo</string>
+    <string name="InputSream">请输入</string>
 </resources>
